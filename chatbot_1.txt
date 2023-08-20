@@ -1,0 +1,10 @@
+CHRISTINA: Chao
+CHATBOT: Adios...
+CHRISTINA: No, no, fuera de Chile.
+CHATBOT: Por supuesto... Mendoza, Buenos Aires y Lima.
+----FIN DE LA CONVERSACION----
+MICHELE: Introduccion a la Programacion.
+CHATBOT: Por supuesto, ¿has pensado en incluir lagartijas?
+MICHELE: Hola, ayuda porfiplis, u.u
+CHATBOT: Por supuesto, como te puedo ayudar?
+----FIN DE LA CONVERSACION----

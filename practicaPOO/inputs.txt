@@ -1,0 +1,13 @@
+civilizacion_01.txt
+Conquista,Corouscant,cientifica
+Sequia,-70,-30,0,-20
+Descubrimiento de yacimiento arquelogico,100,0,150,0
+Piratas Informaticos,-50,-50,-50,-50
+Invasion,The Incan Empire,3,2
+
+civilizacion_02.txt
+Invasion,Atlantis,0,1
+Piratas Informaticos,-50,-50,-50,-50
+Innovacion tecnologico,50,0,300,0
+Invasion,Avalon,0,1
+Conquista,Monaco,financiera

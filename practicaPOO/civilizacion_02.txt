@@ -1,0 +1,5 @@
+Kingdom of Hyrule,1600,3
+Mid-Wolrd,militar,2,0
+Asgard,fortaleza,2,2
+Karakura Town,militar,0,1
+Eternia,fortaleza,2,1

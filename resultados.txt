@@ -1,0 +1,8 @@
+CHATBOT 0
+conversacion 1 -> 1/4
+conversacion 2 -> 1/3
+errores por conversacion: 1.0
+CHATBOT 1
+conversacion 1 -> 0/2
+conversacion 2 -> 0/2
+errores por conversacion: 0.0

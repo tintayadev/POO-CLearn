@@ -1,0 +1,13 @@
+Kingdom of Hyrule, edad 1600
+A la edad de 1601 inviernos: Ha sido atacada la ciudad de Karakura Town a manos de Atlantis
+A la edad de 1602 inviernos: Ha ocurrido Piratas Informaticos
+A la edad de 1603 inviernos: Ha ocurrido Innovacion tecnologico
+A la edad de 1604 inviernos: Ha caido la ciudad de Karakura Town a manos de Avalon
+A la edad de 1605 inviernos: Se ha conquistado la ciudad de Monaco
+Estadisticas de tu civilizacion:
+Oro: 25
+Soldados: 5
+Tecnologia: 150
+Proteccion: 10
+Tu civilizacion cuenta con 4 ciudades, de las cuales 0 se encuentran con danos
+A la edad de 1605 inviernos: La civilizacion cayo

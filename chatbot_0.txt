@@ -1,0 +1,16 @@
+JILL: necesito escapar.
+CHATBOT: Por supuesto, dejame mostrarte algunos destinos... Chiloe, San Pedro y Valdivia.
+JILL: Hola, ayuda porfiplis, u.u
+CHATBOT: Por supuesto, como te puedo ayudar?
+JILL: alo?
+CHATBOT: Eso no esta dentro de mis protocolos.
+JILL: hola, estas ahi?
+CHATBOT: Por supuesto, como te puedo ayudar?
+----FIN DE LA CONVERSACION----
+JUSTIN: Chile.
+CHATBOT: Ah, por supuesto... Chiloe, San Pedro y Valdivia.
+JUSTIN: Eso es maldad.
+CHATBOT: Eso no esta dentro de mis protocolos.
+JUSTIN: necesito escapar.
+CHATBOT: Por supuesto, dejame mostrarte algunos destinos... Chiloe, San Pedro y Valdivia.
+----FIN DE LA CONVERSACION----

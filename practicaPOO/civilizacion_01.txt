@@ -1,0 +1,9 @@
+Nation of Panem,2030,5
+Eternia,fortaleza,3,0
+Ankh-Morpork,cientifica,3,3
+Rapture,cientifica,4,0
+Omashu,fortaleza,3,2
+Pandora,cientifica,1,4
+Monaco,financiera,0,2
+City 17,cientifica,0,0
+Babylon5,militar,0,4
